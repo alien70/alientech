@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.alientech.ui", "com.ali
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.alientech.test", "com.alientech.test\com.alientech.test.csproj", "{7F4A410E-E0EC-4D4D-9377-211FE88CCB51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.alientech.utils", "com.alientech.utils\com.alientech.utils.csproj", "{9133BA07-E331-4AFA-A0A2-574D364527D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7F4A410E-E0EC-4D4D-9377-211FE88CCB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F4A410E-E0EC-4D4D-9377-211FE88CCB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F4A410E-E0EC-4D4D-9377-211FE88CCB51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9133BA07-E331-4AFA-A0A2-574D364527D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9133BA07-E331-4AFA-A0A2-574D364527D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9133BA07-E331-4AFA-A0A2-574D364527D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9133BA07-E331-4AFA-A0A2-574D364527D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
