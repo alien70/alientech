@@ -1,0 +1,29 @@
+extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+
+// <copyright file="%FileName%" company="AlienTech">
+// Copyright (c) 2011, 2111 All Right Reserved
+//
+// This source is subject to the %UserName% Permissive License.
+// All other rights reserved.
+//
+// THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+// KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+// IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+// PARTICULAR PURPOSE.
+// </copyright>
+// <author>%UserName%</author>
+// <email>%UserName%@gmail.com</email>
+// <date>%CreationDay%/%CreationMonth%/%CreationYear%</date>
+// <summary></summary>
+
+extensions: .aspx .ascx
+<%-- 
+Sample license text.
+--%>
+extensions: .vb
+'Sample license text.
+extensions:  .xml .config .xsd
+<!--
+Sample license text.
+-->
